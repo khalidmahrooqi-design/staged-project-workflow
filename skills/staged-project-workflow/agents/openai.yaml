@@ -1,0 +1,6 @@
+interface:
+  display_name: "Staged Project Workflow"
+  short_description: "Brief, design, plan, execute, verify, and improve"
+  default_prompt: "Use $staged-project-workflow to brief this task, design its structure, execute a phased checklist, verify results and relevant logs, and plan justified updates."
+policy:
+  allow_implicit_invocation: true
